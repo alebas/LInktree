@@ -1,0 +1,11 @@
+{
+    "name": "Links Riff and Destroy",
+    "short_name": "Links Riff and Destroy",
+    "description": "Links Riff and Destroy",
+    "theme_color": "#fff",
+    "background_color": "white",
+    "display": "standalone",
+    "Scope": "./",
+    "start_url": "index.html",
+    "splash_pages": null
+  }
